@@ -3,7 +3,7 @@
 #### ECE Undergraduate at IIT Roorkee
 
 
-- looking forward to work with react or nodejs projects
+- looking forward to work with MERN stack projects
 
 
 ### Find me at:
