@@ -3,9 +3,6 @@
 #### ECE Undergraduate at IIT Roorkee
 
 
-
-- 🔭 I’m currently working on frontend development
-- 🌱 I’m learning backend  
 - looking forward to work with react or nodejs projects
 
 
